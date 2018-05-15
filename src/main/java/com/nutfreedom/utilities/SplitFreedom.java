@@ -1,4 +1,4 @@
-package com.github.nutfreedom.utilities;
+package com.nutfreedom.utilities;
 
 public class SplitFreedom {
 

@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.nutfreedom</groupId>
+    <groupId>com.github.nut077</groupId>
     <artifactId>freedom-utilities</artifactId>
     <version>1.0.0</version>
     <build>

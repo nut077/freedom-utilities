@@ -1,4 +1,4 @@
-package com.github.nutfreedom.utilities;
+package com.nutfreedom.utilities;
 
 import java.util.Map;
 
