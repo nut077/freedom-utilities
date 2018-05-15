@@ -25,9 +25,7 @@ public class SubstringFreedom {
 
     private boolean isTrueCondition(String str, int length) {
         if (check.isNotBlank(str) && length != -1) {
-            if (str.length() >= length) {
-                return true;
-            }
+            return str.length() >= length;
         }
         return false;
     }
