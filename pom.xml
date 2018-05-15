@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.nut077</groupId>
-    <artifactId>nutfreedom</artifactId>
+    <artifactId>freedom-utilities</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
